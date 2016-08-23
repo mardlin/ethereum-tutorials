@@ -73,7 +73,6 @@ Get your coinbase address's balance in the `latest` block
   nonce: '0x0', .........
 ```
 
-
 # Deploy and interact with a smart contract in the browser
 
 For this we'll make use of some small tweaks I've made to Ledger Labs' [Simple Storage]() repository. 
